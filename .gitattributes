@@ -1,3 +1,4 @@
+*.grd filter=lfs diff=lfs merge=lfs -text
 *.m filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
 *.mat filter=lfs diff=lfs merge=lfs -text
@@ -49,5 +50,4 @@
 /gmt/gmtdata/synthetics/manyrs_rsource2000_Lmax20_lrng7-9/J40 filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
 *.sh filter=lfs diff=lfs merge=lfs -text
-*.grd filter=lfs diff=lfs merge=lfs -text
 *.nc filter=lfs diff=lfs merge=lfs -text
